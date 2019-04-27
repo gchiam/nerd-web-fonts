@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "Iosevka Nerd";
+  font-weight: normal;
+  font-style: normal;
+  src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@2.0.0/patched-fonts/Iosevka/Extra-Light/complete/Iosevka%20Term%20Extralight%20Nerd%20Font%20Complete%20Mono.ttf") format('truetype');
+}
+@font-face {
+  font-family: "Iosevka Nerd";
+  font-weight: normal;
+  font-style: italic;
+  src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@2.0.0/patched-fonts/Iosevka/Extra-Light-Italic/complete/Iosevka%20Term%20Extralight%20Italic%20Nerd%20Font%20Complete%20Mono.ttf") format('truetype');
+}
+@font-face {
+  font-family: "Iosevka Nerd";
+  font-weight: bold;
+  font-style: normal;
+  src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@2.0.0/patched-fonts/Iosevka/Light/complete/Iosevka%20Term%20lght%20Nerd%20Font%20Complete%20Mono.ttf") format('truetype');
+}
+@font-face {
+  font-family: "Iosevka Nerd";
+  font-weight: bold;
+  font-style: italic;
+  src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@2.0.0/patched-fonts/Iosevka/Light-Italic/complete/Iosevka%20Term%20Light%20Italic%20Nerd%20Font%20Complete%20Mono.ttf") format('truetype');
+}
